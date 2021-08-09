@@ -13,15 +13,20 @@
   </a>
 </div>
 <h3>Tecnologias que já utilizei</h3>
-<div style="display: flex; flex-direction: row;">
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width= "20" height= "20"><strong> C++</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width= "20" height= "20"><strong> Python</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "20" height= "20"><strong> Javascript</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width= "20" height= "20"><strong> Kotlin</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width= "20" height= "20"><strong> HTML & CSS</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width= "20" height= "20"><strong> NodeJS</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width= "20" height= "20"><strong> VueJS</strong></p></div>
-  <div><p><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width= "20" height= "20"><strong> Wordpress</strong></p></div>
-</div>
+<!-- style="display: flex; flex-direction: row;" -->
+<table border="0">
+        <tbody>
+            <tr>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width= "20" height= "20"><strong> C++</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width= "20" height= "20"><strong> Python</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "20" height= "20"><strong> Javascript</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width= "20" height= "20"><strong> Kotlin</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width= "20" height= "20"><strong> HTML & CSS</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width= "20" height= "20"><strong> NodeJS</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width= "20" height= "20"><strong> VueJS</strong></td>
+                <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width= "20" height= "20"><strong> Wordpress</strong></td>
+            </tr>
+        </tbody>
+    </table>
 <br>
 <p><img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-1.png" width= "21" height= "16"/><strong> Email para contato: caiocpe@gmail.com</strong></p>
