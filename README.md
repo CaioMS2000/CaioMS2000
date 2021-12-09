@@ -3,11 +3,11 @@
     <div style = "display: block;">
         <ul type="none">
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "20" height= "20">  <strong>Javascript</strong></li>
+            <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li>
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width= "20" height= "20">  <strong>NodeJS</strong></li>
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width= "20" height= "20">  <strong>Python</strong></li>
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" width= "20" height= "20">  <strong>FastAPI</strong></li>
           <!-- <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li> -->
-          <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li>
         </ul>
     </div>
     <br/>
