@@ -1,4 +1,6 @@
 ### Olá, eu sou o Caio, prazer em ver você por aqui 😉
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+<i class="bi bi-envelope-check"></i>
 <h2>O que mais uso atualmente:</h2>
     <div style = "display: block;">
         <ul type="none">
