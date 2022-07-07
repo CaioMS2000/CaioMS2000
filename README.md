@@ -1,19 +1,16 @@
 ### Olá, eu sou o Caio, prazer em ver você por aqui 😉
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
-<i class="bi bi-envelope-check"></i>
+
 <h2>O que mais uso atualmente:</h2>
     <div style = "display: block;">
         <ul type="none">
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "20" height= "20">  <strong>Javascript</strong></li>
-            <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li>
-          <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width= "20" height= "20">  <strong>NodeJS</strong></li>
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width= "20" height= "20">  <strong>Python</strong></li>
+          <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width= "20" height= "20">  <strong>Django</strong></li>
+            <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li>
           <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" width= "20" height= "20">  <strong>FastAPI</strong></li>
-          <!-- <li style = "float: left; margin: 0 6px 0 0;"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width= "20">  <strong>ReactJS</strong></li> -->
         </ul>
     </div>
     <br/>
-    <h2>Rumo ao fullstack ✊</h2>
     <div>
       <a href="https://github.com/CaioMS2000">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioMS2000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,14 +18,13 @@
       </a>
     </div>
     <h3>Tecnologias que já utilizei</h3>
-    <!-- style="display: flex; flex-direction: row;" -->
     <table>
             <tbody>
                 <tr>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width= "20" height= "20"><strong> C++</strong></td>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width= "20" height= "20"><strong> Python</strong></td>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "20" height= "20"><strong> Javascript</strong></td>
-                    <td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width= "20" height= "20"><strong> Kotlin</strong></td>
+                    <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width= "20" height= "20"><strong> Django</strong></td>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width= "20" height= "20"><strong> HTML & CSS</strong></td>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width= "20" height= "20"><strong> NodeJS</strong></td>
                     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width= "20" height= "20"><strong> VueJS</strong></td>
